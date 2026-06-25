@@ -1,0 +1,18 @@
+# Ignorer tout WordPress, les plugins et les thèmes (tu ne veux que ton thème personnalisé)
+/app/public/wp-admin/
+/app/public/wp-includes/
+/app/public/wp-content/plugins/
+/app/public/wp-content/uploads/
+/app/public/wp-config.php
+/app/public/.htaccess
+
+# Ignorer les fichiers d'environnement local
+/conf/
+/logs/
+*.log
+*.sql
+.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
