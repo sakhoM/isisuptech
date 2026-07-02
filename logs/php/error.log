@@ -1,0 +1,167 @@
+[14-Jun-2026 14:02:31 UTC] PHP Warning:  require(C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\header-footer-elementor/inc/widgets-manager/base/module-base.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\header-footer-elementor\inc\widgets-manager\modules-manager.php on line 108
+[14-Jun-2026 15:40:28 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[14-Jun-2026 15:40:47 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[14-Jun-2026 21:34:47 UTC] Invalid url passed to get_utm_ready_link function
+[14-Jun-2026 21:34:47 UTC] Invalid url passed to get_utm_ready_link function
+[14-Jun-2026 21:34:48 UTC] Invalid url passed to get_utm_ready_link function
+[14-Jun-2026 21:34:48 UTC] Invalid url passed to get_utm_ready_link function
+[14-Jun-2026 21:34:49 UTC] Invalid url passed to get_utm_ready_link function
+[14-Jun-2026 21:34:49 UTC] Invalid url passed to get_utm_ready_link function
+[15-Jun-2026 01:35:50 UTC] Invalid url passed to get_utm_ready_link function
+[15-Jun-2026 18:11:21 UTC] Invalid url passed to get_utm_ready_link function
+[15-Jun-2026 18:39:02 UTC] Invalid url passed to get_utm_ready_link function
+[15-Jun-2026 18:39:06 UTC] Invalid url passed to get_utm_ready_link function
+[15-Jun-2026 18:39:07 UTC] Invalid url passed to get_utm_ready_link function
+[16-Jun-2026 01:14:48 UTC] Invalid url passed to get_utm_ready_link function
+[16-Jun-2026 01:14:49 UTC] Invalid url passed to get_utm_ready_link function
+[16-Jun-2026 16:00:04 UTC] Invalid url passed to get_utm_ready_link function
+[16-Jun-2026 16:00:04 UTC] Invalid url passed to get_utm_ready_link function
+[16-Jun-2026 20:51:46 UTC] Invalid url passed to get_utm_ready_link function
+[16-Jun-2026 20:51:47 UTC] Invalid url passed to get_utm_ready_link function
+[16-Jun-2026 22:58:31 UTC] Invalid url passed to get_utm_ready_link function
+[16-Jun-2026 22:58:32 UTC] Invalid url passed to get_utm_ready_link function
+[17-Jun-2026 19:48:01 UTC] Invalid url passed to get_utm_ready_link function
+[17-Jun-2026 19:48:02 UTC] Invalid url passed to get_utm_ready_link function
+[18-Jun-2026 17:41:41 UTC] Invalid url passed to get_utm_ready_link function
+[18-Jun-2026 17:41:42 UTC] Invalid url passed to get_utm_ready_link function
+[18-Jun-2026 21:00:19 UTC] Invalid url passed to get_utm_ready_link function
+[18-Jun-2026 21:00:20 UTC] Invalid url passed to get_utm_ready_link function
+[18-Jun-2026 23:11:09 UTC] Invalid url passed to get_utm_ready_link function
+[18-Jun-2026 23:11:10 UTC] Invalid url passed to get_utm_ready_link function
+[19-Jun-2026 00:04:32 UTC] Invalid url passed to get_utm_ready_link function
+[19-Jun-2026 00:04:32 UTC] Invalid url passed to get_utm_ready_link function
+[19-Jun-2026 00:43:23 UTC] Invalid url passed to get_utm_ready_link function
+[19-Jun-2026 00:43:24 UTC] Invalid url passed to get_utm_ready_link function
+[19-Jun-2026 00:43:42 UTC] Invalid url passed to get_utm_ready_link function
+[19-Jun-2026 21:24:51 UTC] Invalid url passed to get_utm_ready_link function
+[19-Jun-2026 21:24:52 UTC] Invalid url passed to get_utm_ready_link function
+[20-Jun-2026 14:07:09 UTC] Invalid url passed to get_utm_ready_link function
+[20-Jun-2026 14:07:10 UTC] Invalid url passed to get_utm_ready_link function
+[20-Jun-2026 14:26:14 UTC] Invalid url passed to get_utm_ready_link function
+[20-Jun-2026 14:26:15 UTC] Invalid url passed to get_utm_ready_link function
+[20-Jun-2026 18:52:02 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 15:24:30 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 15:24:31 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 17:16:51 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 17:16:53 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:26:51 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:26:51 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:26:53 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:26:54 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:26:55 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:27:00 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:27:02 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:27:05 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:27:19 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:27:20 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:27:47 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:27:54 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:33:07 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:33:21 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:33:22 UTC] Invalid url passed to get_utm_ready_link function
+[21-Jun-2026 20:33:36 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 05:41:59 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 05:42:00 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 08:24:51 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 08:24:52 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 08:24:54 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 09:30:21 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 09:30:22 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 09:50:28 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 09:50:30 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 17:47:37 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 17:47:38 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 21:27:33 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 21:27:33 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 21:27:33 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 21:27:35 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 21:27:36 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 21:27:36 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 22:55:42 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 23:33:45 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 23:34:09 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 23:34:15 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 23:34:15 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 23:34:16 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 23:34:16 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 23:34:18 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 23:34:18 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 23:34:31 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 23:34:58 UTC] Invalid url passed to get_utm_ready_link function
+[23-Jun-2026 23:59:37 UTC] Invalid url passed to get_utm_ready_link function
+[24-Jun-2026 00:48:02 UTC] Invalid url passed to get_utm_ready_link function
+[24-Jun-2026 00:48:03 UTC] Invalid url passed to get_utm_ready_link function
+[24-Jun-2026 00:48:05 UTC] Invalid url passed to get_utm_ready_link function
+[24-Jun-2026 13:08:04 UTC] Invalid url passed to get_utm_ready_link function
+[24-Jun-2026 13:08:08 UTC] Invalid url passed to get_utm_ready_link function
+[24-Jun-2026 13:08:09 UTC] Invalid url passed to get_utm_ready_link function
+[24-Jun-2026 13:08:10 UTC] Invalid url passed to get_utm_ready_link function
+[24-Jun-2026 16:05:04 UTC] PHP Warning:  Undefined array key 3 in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\child-theme-configurator\includes\forms\main.php on line 9
+[24-Jun-2026 16:10:48 UTC] PHP Warning:  Undefined array key 3 in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\child-theme-configurator\includes\forms\main.php on line 9
+[24-Jun-2026 16:28:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[24-Jun-2026 16:28:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[24-Jun-2026 16:28:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[24-Jun-2026 16:28:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[24-Jun-2026 16:28:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[24-Jun-2026 16:28:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[24-Jun-2026 16:28:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[24-Jun-2026 16:28:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[24-Jun-2026 17:00:16 UTC] Invalid url passed to get_utm_ready_link function
+[24-Jun-2026 17:00:17 UTC] Invalid url passed to get_utm_ready_link function
+[24-Jun-2026 17:26:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Jun-2026 02:17:36 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 02:17:37 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 08:40:23 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 08:40:23 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 09:29:39 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 09:29:40 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 09:37:29 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 11:29:46 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 11:29:46 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 12:13:08 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 12:13:08 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 16:17:36 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 16:47:30 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 16:47:32 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 18:41:26 UTC] Invalid url passed to get_utm_ready_link function
+[25-Jun-2026 18:41:27 UTC] Invalid url passed to get_utm_ready_link function
+[26-Jun-2026 00:45:05 UTC] Invalid url passed to get_utm_ready_link function
+[26-Jun-2026 00:45:05 UTC] Invalid url passed to get_utm_ready_link function
+[26-Jun-2026 00:45:07 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 08:24:07 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Jun-2026 09:30:08 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 10:38:36 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 10:45:29 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 10:45:29 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 15:26:20 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 15:56:58 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Jun-2026 18:14:01 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 18:15:29 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 18:15:30 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 18:15:50 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 20:48:09 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 20:49:49 UTC] PHP Warning:  Undefined array key "payload" in C:\Users\hp\Local Sites\med\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 617
+[27-Jun-2026 21:57:03 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 21:57:04 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 21:57:05 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 21:57:05 UTC] Invalid url passed to get_utm_ready_link function
+[27-Jun-2026 23:44:56 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT COUNT(*) as total_count FROM `wp_suremails_email_log` WHERE status = 'sent'     made by require_once('wp-admin/admin-footer.php'), do_action('admin_footer'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Nps_Notice->show_nps_notice, SureMails\Inc\Nps_Notice->check_email_log_entries, SureMails\Inc\DB\EmailLog->get
+[27-Jun-2026 23:44:58 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT id, attachments FROM `wp_suremails_email_log` WHERE updated_at < '2026-05-28 23:44:58'     made by do_action_ref_array('suremails_cleanup_cron'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Admin\Crons->delete_old_email_logs, SureMails\Inc\Controller\Emails->delete_old_email_logs, SureMails\Inc\DB\EmailLog->get
+[27-Jun-2026 23:49:58 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT COUNT(*) as total_count FROM `wp_suremails_email_log` WHERE status = 'sent'     made by require_once('wp-admin/admin-footer.php'), do_action('admin_footer'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Nps_Notice->show_nps_notice, SureMails\Inc\Nps_Notice->check_email_log_entries, SureMails\Inc\DB\EmailLog->get
+[28-Jun-2026 00:25:49 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT COUNT(*) as total_count FROM `wp_suremails_email_log` WHERE status = 'sent'     made by require_once('wp-admin/admin-footer.php'), do_action('admin_footer'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Nps_Notice->show_nps_notice, SureMails\Inc\Nps_Notice->check_email_log_entries, SureMails\Inc\DB\EmailLog->get
+[28-Jun-2026 00:35:20 UTC] Invalid url passed to get_utm_ready_link function
+[28-Jun-2026 13:08:01 UTC] Invalid url passed to get_utm_ready_link function
+[28-Jun-2026 13:08:01 UTC] Invalid url passed to get_utm_ready_link function
+[28-Jun-2026 13:08:02 UTC] Invalid url passed to get_utm_ready_link function
+[28-Jun-2026 17:14:14 UTC] Invalid url passed to get_utm_ready_link function
+[01-Jul-2026 11:17:41 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT id, attachments FROM `wp_suremails_email_log` WHERE updated_at < '2026-06-01 11:17:41'     made by do_action_ref_array('suremails_cleanup_cron'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Admin\Crons->delete_old_email_logs, SureMails\Inc\Controller\Emails->delete_old_email_logs, SureMails\Inc\DB\EmailLog->get
+[01-Jul-2026 11:21:40 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT COUNT(*) as total_count FROM `wp_suremails_email_log` WHERE status = 'sent'     made by require_once('wp-admin/admin-footer.php'), do_action('admin_footer'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Nps_Notice->show_nps_notice, SureMails\Inc\Nps_Notice->check_email_log_entries, SureMails\Inc\DB\EmailLog->get
+[01-Jul-2026 15:20:25 UTC] Invalid url passed to get_utm_ready_link function
+[01-Jul-2026 16:21:58 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT COUNT(*) as total_count FROM `wp_suremails_email_log` WHERE status = 'sent'     made by require_once('wp-admin/admin-footer.php'), do_action('admin_footer'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Nps_Notice->show_nps_notice, SureMails\Inc\Nps_Notice->check_email_log_entries, SureMails\Inc\DB\EmailLog->get
+[01-Jul-2026 16:22:06 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT COUNT(*) as total_count FROM `wp_suremails_email_log` WHERE status = 'sent'     made by require_once('wp-admin/admin-footer.php'), do_action('admin_footer'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Nps_Notice->show_nps_notice, SureMails\Inc\Nps_Notice->check_email_log_entries, SureMails\Inc\DB\EmailLog->get
+[01-Jul-2026 16:22:29 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT COUNT(*) as total_count FROM `wp_suremails_email_log` WHERE status = 'sent'     made by require_once('wp-admin/admin-footer.php'), do_action('admin_footer'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Nps_Notice->show_nps_notice, SureMails\Inc\Nps_Notice->check_email_log_entries, SureMails\Inc\DB\EmailLog->get
+[01-Jul-2026 16:24:16 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT COUNT(*) as total_count FROM `wp_suremails_email_log` WHERE status = 'sent'     made by require_once('wp-admin/admin-footer.php'), do_action('admin_footer'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Nps_Notice->show_nps_notice, SureMails\Inc\Nps_Notice->check_email_log_entries, SureMails\Inc\DB\EmailLog->get
+[01-Jul-2026 16:44:15 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT COUNT(*) as total_count FROM `wp_suremails_email_log` WHERE status = 'sent'     made by require_once('wp-admin/admin-footer.php'), do_action('admin_footer'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Nps_Notice->show_nps_notice, SureMails\Inc\Nps_Notice->check_email_log_entries, SureMails\Inc\DB\EmailLog->get
+[01-Jul-2026 16:44:46 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT COUNT(*) as total_count FROM `wp_suremails_email_log` WHERE status = 'sent'     made by require_once('wp-admin/admin-footer.php'), do_action('admin_footer'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Nps_Notice->show_nps_notice, SureMails\Inc\Nps_Notice->check_email_log_entries, SureMails\Inc\DB\EmailLog->get
+[02-Jul-2026 11:37:33 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT id, attachments FROM `wp_suremails_email_log` WHERE updated_at < '2026-06-02 11:37:33'     made by do_action_ref_array('suremails_cleanup_cron'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Admin\Crons->delete_old_email_logs, SureMails\Inc\Controller\Emails->delete_old_email_logs, SureMails\Inc\DB\EmailLog->get
+[02-Jul-2026 14:09:08 UTC] WordPress database error Table 'local.wp_suremails_email_log' doesn't exist for query SELECT COUNT(*) as total_count FROM `wp_suremails_email_log` WHERE status = 'sent'     made by require_once('wp-admin/admin-footer.php'), do_action('admin_footer'), WP_Hook->do_action, WP_Hook->apply_filters, SureMails\Inc\Nps_Notice->show_nps_notice, SureMails\Inc\Nps_Notice->check_email_log_entries, SureMails\Inc\DB\EmailLog->get
