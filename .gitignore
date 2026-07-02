@@ -10,7 +10,6 @@
 /conf/
 /logs/
 *.log
-*.sql
 .env
  
 # Fichiers système
